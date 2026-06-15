@@ -51,6 +51,7 @@ A organizadora passou por uma **mudança radical de perfil** a partir do final d
 *   **IBFC:** Segue um perfil técnico e direto, comparável à Cesgranrio. Valoriza o uso correto da norma culta em redações, às vezes mais do que o próprio conteúdo.
 *   **Quadrix:** Muito semelhante ao Cebraspe, utilizando o modelo Certo/Errado, mas com **penalização mais leve**: geralmente duas erradas anulam uma certa (perda de 0,5 ponto por erro).
 *   **IBADE:** Tradicionalista, com questões diretas de múltipla escolha. Em informática, o grande destaque são as planilhas eletrônicas (Excel), que podem compor metade da prova da disciplina.
+*   **AOCP / Instituto AOCP:** Foca na literalidade da "lei seca" e análise sintática em Português. Recentemente, começou a aplicar também o "estilo Cebraspe" de Certo/Errado em alguns concursos policiais.
 
 # Glossário:
 - Literalidade da Lei (ou "Lei Seca")
@@ -83,4 +84,4 @@ A organizadora passou por uma **mudança radical de perfil** a partir do final d
 - "Quero que você me dê um guia completo para iniciantes entenderem todos os esquemas de todas as bancas orgaizadoras. Como por exemplo: Banca, estilo, modelo de questões, exemplos práticos e metodologia de análise. Analise cada banca. Me dê uma saída em texto com tópicos e subtópicos."
 - "Me guie para entender todos os sistemas de todas as bancas organizadoras para seu estilo de provas, metodologia da banca, modelos de questões, exemplos, e modelo de análise da banca, analisando cada uma de forma técnica. Me retorne em estilo de tópicos, explicações, exemplos, subtópicos nesse mesmo estilo, e outros sub-subtópicos se necessário."
 - "Atue como um analista especialista em concursos públicos e pesquisa de bancas organizadoras. Sua tarefa é elaborar um guia técnico completo e detalhado sobre o perfil estratégico, metodologia e sistemas de cobrança de cada uma das bancas. A resposta deve ser estritamente formatada em tópicos, subtópicos e sub-subtópicos (níveis hierárquicos), utilizando linguagem técnica, clara e voltada para a alta performance de candidatos."
-*   **AOCP / Instituto AOCP:** Foca na literalidade da "lei seca" e análise sintática em Português. Recentemente, começou a aplicar também o "estilo Cebraspe" de Certo/Errado em alguns concursos policiais.
+
